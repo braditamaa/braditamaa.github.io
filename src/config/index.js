@@ -1,9 +1,9 @@
 module.exports = {
-  siteTitle: 'Braditama.YK | Amateur',
+  siteTitle: 'Braditama.Klt | Amateur',
   siteDescription:
     'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
+    'braditama, bokep , kominfo , kominfo jogja , javascript, northeastern',
   siteUrl: 'https://braditama-yk.netlify.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
