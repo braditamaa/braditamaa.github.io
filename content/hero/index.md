@@ -7,4 +7,4 @@ H0M3'
 contactText: 'Get In Touch'
 ---
 
-Opo Perlune wae ~
+Step by step until Finish .
