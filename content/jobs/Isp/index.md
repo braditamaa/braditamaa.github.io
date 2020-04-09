@@ -1,12 +1,12 @@
 ---
 date: 'June 2019'
-title: 'IT Support'
+title: 'Part of'
 company: 'Diskominfo Yogyakarta'
 location: 'City Hall, Yogyakarta'
 range: 'March - now'
 url: 'https://kominfo.jogjakota.go.id'
 ---
-
-- Monitoring Server
-- Monitoring Network
-- Troubleshoting Everything what i can
+Job Desk : 
+- Monitoring Tingkah Lakumu karo liane
+- Monitoring Kebahagiaanmu
+- Troubleshooting Atiku ben ttep tegar
