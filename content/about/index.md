@@ -2,12 +2,12 @@
 title: 'About Me'
 avatar: './me.png'
 skills:
-  - JavaScript (So Fucking Noob)
-  - HTML & (S)CSS
+  - HTML
   - CSS
-  - Gaming	
+  - JavaScript ( So fcking  noob)
+  - Network	
+  - Gaming
   - Futsal
-  - Network
   - Sleep
 ---
 
