@@ -7,4 +7,4 @@ H0M3'
 contactText: 'Get In Touch'
 ---
 
-It’s not about ideas. It’s about making ideas happen.
+Opo Perlune wae ~
